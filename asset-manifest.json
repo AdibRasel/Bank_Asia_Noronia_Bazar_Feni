@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Bank_Asia_Noronia_Bazar_Feni/static/css/main.5411400d.css",
-    "main.js": "/Bank_Asia_Noronia_Bazar_Feni/static/js/main.f4d49744.js",
+    "main.js": "/Bank_Asia_Noronia_Bazar_Feni/static/js/main.2a8e1995.js",
     "static/media/ImoIcon.png": "/Bank_Asia_Noronia_Bazar_Feni/static/media/ImoIcon.06910d8fc74ef2da0270.png",
     "static/media/EmailIcon.png": "/Bank_Asia_Noronia_Bazar_Feni/static/media/EmailIcon.9800434dcd844b3dca3f.png",
     "static/media/WhatsppIcon.png": "/Bank_Asia_Noronia_Bazar_Feni/static/media/WhatsppIcon.0fa9689266b64db457ec.png",
     "index.html": "/Bank_Asia_Noronia_Bazar_Feni/index.html",
     "main.5411400d.css.map": "/Bank_Asia_Noronia_Bazar_Feni/static/css/main.5411400d.css.map",
-    "main.f4d49744.js.map": "/Bank_Asia_Noronia_Bazar_Feni/static/js/main.f4d49744.js.map"
+    "main.2a8e1995.js.map": "/Bank_Asia_Noronia_Bazar_Feni/static/js/main.2a8e1995.js.map"
   },
   "entrypoints": [
     "static/css/main.5411400d.css",
-    "static/js/main.f4d49744.js"
+    "static/js/main.2a8e1995.js"
   ]
 }
